@@ -29,6 +29,7 @@ Follow the links below to learn more about Knative.
 - [Assigning a static IP address for Knative on Google Kubernetes Engine](./serving/gke-assigning-static-ip-address.md)
 - [Configuring HTTPS with a custom certificate](./serving/using-a-tls-cert.md)
 - [Configuring high availability](./serving/config-ha.md)
+- [Configuring revision garbage collection](./serving/config-gc.md)
 
 ### Samples and demos
 
